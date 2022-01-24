@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intent++</string>
+    <string name="module_desc">记录最近的 Intent，并支持格式化为 json 输出</string>
+</resources>
